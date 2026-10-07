@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi, I'm Heinock 👋
 
-<!--
-**heinock4-maker/heinock4-maker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Urban Development & Land Governance Specialist** based in Addis Ababa, Ethiopia.
 
-Here are some ideas to get you started:
+I have 15+ years of experience across architecture, technical education, municipal land administration and federal urban policy, including 5 years as Advisor to two Federal Ministers of Urban Development and Construction.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🎓 Education
+- M.A. in Urban Land Administration and Management, Addis Ababa University
+- B.Ed. in Design and Drafting Technology, Adama University
+
+## 🛠️ Skills
+- Urban Design & Planning
+- Land Administration & Governance
+- GIS, AutoCAD, ArchiCAD
+- Policy Research & Analysis
+
+## 🌱 Currently learning
+HTML, CSS and JavaScript, so I can build websites and digital tools for urban and land projects.
+
+## 📫 Work with me
+Lead Consultant / Senior Urban Design & Land Specialist (independent consultancy, since 2024)
